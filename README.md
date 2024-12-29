@@ -7,6 +7,7 @@
 ```bash
   # installation and build
   npm install
+  npm link
   npx tsc
 
   # To add tasks
